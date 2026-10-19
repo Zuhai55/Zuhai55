@@ -1,6 +1,6 @@
 # Hi, I'm Hairi 👋
 
-I'm a second-year BSc student at the University of Auckland, double majoring in Computer Science and Information Technology Management. I'm interested in system administration, networking and cybersecurity, and I'm looking for a **summer 2026/27 internship in Auckland**.
+I'm a second-year BSc student at the University of Auckland, double majoring in Computer Science and Information Technology Management. I'm interested in system administration, networking, cybersecurity, and software development. I love learning and I pick things up quickly. I learn by doing and I’m super eager to get real-world experience. I am comfortable with being uncomfortable, will always prefer something that challenges me over something easy and I love working with others to achieve a common goal. Fun Fact: I was a Scrabble state champion 
 
 I learn best by building things, so most of what I know comes from projects and my home lab.
 

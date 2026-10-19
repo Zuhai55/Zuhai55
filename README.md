@@ -1,4 +1,4 @@
-# Kia ora, I'm Hairi 👋
+# Hi, I'm Hairi 👋
 
 I'm a second-year BSc student at the University of Auckland, double majoring in Computer Science and Information Technology Management. I'm interested in system administration, networking and cybersecurity, and I'm looking for a **summer 2026/27 internship in Auckland**.
 

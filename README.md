@@ -17,7 +17,7 @@ I learn best by building things, so most of what I know comes from projects and 
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, Java, JavaScript, HTML, CSS
-- **Frameworks and Tools:** React, Express, Flask, Git, MySQL, Pytest
+- **Frameworks and Tools:** React, Express, Flask, Git, MySQL, Pytest, Docker
 
 ## 🏅 Certifications
 - CompTIA Security+
